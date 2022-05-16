@@ -1,0 +1,2 @@
+# noorsoft
+training
